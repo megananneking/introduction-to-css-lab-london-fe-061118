@@ -15,7 +15,7 @@ div {
 /* ID selector to select the element with id 'main-header' */
 #main-header {
   color:red;
-  font-size:22em
+  font-size:22px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
